@@ -2,7 +2,7 @@
 #### Full Stack Developer.
 
 
-I'm Firoz from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native. I also enjoy c#, asp.net, asp.net core, MVC, API in general.
+I'm Tashrif from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native. I also enjoy c#, asp.net, asp.net core, MVC, API in general.
 
 Skills and Experience:
 
@@ -10,13 +10,15 @@ Skills and Experience:
 
 *💻 C#
 
-*💻 asp.net
-
 *💻 asp.net core
 
 *💻 MS SQL
 
 *💻 API
+
+*💻 Python
+
+*💻 Machine Learning
 
 
 ## 🚀 Languages and Tools:
